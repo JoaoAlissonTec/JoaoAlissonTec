@@ -6,9 +6,14 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas e atuante profissi
 
 
 ## 🛠 Habilidades
-**Front-end:** Javascript, React
+**Front-end:** ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-**Back-end:** PHP, Laravel, C#, .Net, Java
+**Back-end:** ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) 
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet)
+
 ## 🔗 Links
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoalisson222005@gmail.com)
