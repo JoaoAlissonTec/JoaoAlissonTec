@@ -6,7 +6,10 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas e atuante profissi
 
 
 ## 🛠 Habilidades
-**Front-end:** ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+**Front-end:**
+![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 **Back-end:** ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
