@@ -1,7 +1,9 @@
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/JoaoAlissonTec/JoaoAlissonTec/assets/76262867/d12239e9-8417-473e-abf6-da69859a6859">
+
 # Olá, me chamo João Alisson! 👨🏻‍💻
 
-
 ## 🚀 Sobre mim
+
 Olá, sou estudante de Análise e Desenvolvimento de Sistemas e atuante profissionalmente como desenvolvedor, fique a vontade para acessar alguns dos meus projetos. 
 
 
