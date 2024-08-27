@@ -9,15 +9,13 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas e atuante profissi
 
 ## 🛠 Habilidades
 **Front-end:**
-![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
 **Back-end:** ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) 
-![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
 ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=dotnet)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ## 🔗 Links
 
