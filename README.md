@@ -1,11 +1,18 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/JoaoAlissonTec/JoaoAlissonTec/assets/76262867/d12239e9-8417-473e-abf6-da69859a6859">
-
 # Olá, me chamo João Alisson! 👨🏻‍💻
 
 ## 🚀 Sobre mim
 
 Olá, sou estudante de Análise e Desenvolvimento de Sistemas e atuante profissionalmente como desenvolvedor, fique a vontade para acessar alguns dos meus projetos. 
 
+## 💸 Experiência de trabalho
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/e9f103b4-e5b6-448f-8846-4ce99b50fdb4"/>](https://www.spacex.com/)
+
+**Desenvolvedor Jr** \
+[**Agna**](https://www.spacex.com/) • Tempo integral \
+Linguagens & Tecnologias: `C#`, `.Net`, `Flutter`, `React`, `Node.js`\
+Projetos em destaque: [AGN Vendas](<https://github.com/Kleber2909/AGN_AppVendas>), [AGN MDFe](<https://github.com/Kleber2909/AGN_MDFe>)
+<br/>
 
 ## 🛠 Habilidades
 **Front-end:**
