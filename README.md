@@ -17,6 +17,8 @@ Projetos em destaque: [AGN Vendas](<https://github.com/Kleber2909/AGN_AppVendas>
 ## 🛠 Habilidades
 **Front-end:**
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+**Mobile:**
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
 **Back-end:**
